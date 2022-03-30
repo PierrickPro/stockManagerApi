@@ -1,0 +1,15 @@
+{
+  "name": "1kg Apples",
+  "category": "Fruit",
+  "quantity": "30",
+  "price": "5",
+  "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wholefoodsmarket.com%2Fproduct%2Forganic-fuji%2520apples%2520bag-b07fy9n9t3&psig=AOvVaw276CEB2TOEVG49Goh0aE1a&ust=1648505888541000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNj8vpKp5_YCFQAAAAAdAAAAABAD"
+}
+
+{
+  "name": "3lbs Oranges",
+  "category": "Fruit",
+  "quantity": "24",
+  "price": "3.99",
+  "imageUrl": "https://i5.walmartimages.com/asr/5fa99ca0-ae7b-4030-ae4e-8ac4e1621eb3_1.d784bf085b7b2b98c065fded42d727f1.jpeg"
+}
