@@ -9,7 +9,7 @@ Dependencies:<br>
 
 ## Setup the database
 
-Run the following command in the MySQL CLI:
+Create the following MySQL table:
 `CREATE DATABASE stockmanager;`
 
 ## Run the app
