@@ -10,7 +10,7 @@ Dependencies:<br>
 ## Setup the database
 
 Create the following MySQL table:
-`CREATE DATABASE stockmanager;`
+- `CREATE DATABASE stockmanager;`
 
 ## Run the app
 
